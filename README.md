@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oi, meu nome é Gabiel :)
+Atualmente faço ...        
 
-<!--
-**GabrielValim/GabrielValim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente me encontro focado no meu desenvolvimento profissional na área de Ciência de Dados 
+- 💪🏼 Apaixonado por **Musculaçao**
+- 🖥️ Atualmente mais focado em:
 
-Here are some ideas to get you started:
+<div display="inline">
+  &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" />&nbsp;&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Redes Sociais
+<a href="https://www.linkedin.com/in/gabriel-valim/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+          
