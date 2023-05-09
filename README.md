@@ -1,4 +1,4 @@
-### Oi, meu nome é Gabiel :)
+### Oi, meu nome é Gabriel :)
 Atualmente faço ...        
 
 - 📚 Atualmente me encontro focado no meu desenvolvimento profissional na área de Ciência de Dados 
