@@ -15,7 +15,8 @@ I follow the mantra 'Fall in love with the problem, not the solution' as my mott
          
 ## Tools and Technologies
 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">  
+<img width="450px" align="right" src="https://images2.imgbox.com/9d/ef/81SFNt7G_o.png">  
+
 ### Front-End Development
     
   - **languages:** 
@@ -40,22 +41,18 @@ I follow the mantra 'Fall in love with the problem, not the solution' as my mott
   
 
 
- 
+### Back-End Development
+- **languages:**
+<div display='inline'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  
+</div>
 
-  ### Back-End Development
-  - **languages:**
-  <div display='inline'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  
-  </div>
-  
-  - **Frameworks:**
-  <div display='inline'>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"  />
-  </div>
-
-
+- **Frameworks:**
+<div display='inline'>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"  />
+</div>
 
 
 ### Database
@@ -63,6 +60,12 @@ I follow the mantra 'Fall in love with the problem, not the solution' as my mott
 <div display='inline'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+</div>
+
+<div>
+  <a href="https://github.com/GabrielValim">
+<!--   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielValim&layout=compact&langs_count=7&theme=dracula" align='right'/> -->
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielValim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align='right'/> 
 </div>
 
 ### Testing
@@ -77,13 +80,6 @@ I follow the mantra 'Fall in love with the problem, not the solution' as my mott
 <div display='inline'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />                 
 </div>
-
-<div>
-<a href="https://github.com/GabrielValim">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 
 ## Social Media
 <div>
