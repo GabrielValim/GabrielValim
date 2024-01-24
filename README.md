@@ -89,7 +89,6 @@ I follow the mantra 'Fall in love with the problem, not the solution' as my mott
   <a href="https://www.linkedin.com/in/gabriel-valim/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
 </div>
 
-![Snake animation](https://github.com/GabrielValim/GabrielValim/blob/output/github-contribution-grid-snake.svg)
 
 
           
