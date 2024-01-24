@@ -1,9 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriel but you can call me Valim!
 
-I am a passionate technology enthusiast and an eternal learner in the vast universe of technology.   
-My journey is marked by a thirst for constant learning, believing that technology is a field in constant evolution, and being up to date is the key to facing the challenges of tomorrow. As an eternal student, I seek not only to solve problems,
-I strongly prioritize good practices, organization and software architecture. I believe that the quality of a code is intrinsically linked to its structure, and therefore, I am dedicated to promoting not only functional solutions, but also elegant ones. I keep the mantra “Fall in love with the problem, not the solution” as my motto. I am convinced that a deep understanding of the challenge in question leads to more innovative and efficient solutions, creating clear and sustainable solutions.
+I am a passionate technology enthusiast and a conqueror of virtual worlds. I've defeated many bosses in games and in code - the difference is that programming bugs don't usually drop interesting loot. 😄
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/afm-g9k-fekAAAAC/pc.gif" width="350">
+</p>
+
+My journey is marked by an incessant quest for knowledge. Since a young age, I've always been passionate about games and technology. This path has revealed to me how this world is constantly evolving, and I've come to understand that staying updated is the key to facing the challenges of tomorrow. 🗝️
+
+As an eternal student, I seek not only to solve problems but also prioritize good practices, organization, and software architecture. I believe that the quality of code is intrinsically linked to its structure, and, therefore, I am dedicated to promoting not only functional solutions but also elegant ones. 💎
+
+I follow the mantra 'Fall in love with the problem, not the solution' as my motto. I am convinced that a deep understanding of the challenge at hand leads to more innovative and efficient solutions, creating clear and sustainable outcomes. 🧠
          
 ## Tools and Technologies
 
