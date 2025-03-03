@@ -1,31 +1,31 @@
-### 🚀 Explorador de Dados & Curioso por Natureza  
+### 🚀 Data Explorer & Naturally Curious  
 
-Bem-vindo ao meu espaço no GitHub! 👋  
+Welcome to my GitHub space! 👋  
 
-Sou **Gabriel**, mas pode me chamar de **Valim**. Minha jornada é impulsionada por uma busca incessante por padrões, correlações e histórias ocultas nos dados. 📊✨  
+I'm **Gabriel**, but you can call me **Valim**. My journey is driven by an endless search for patterns, correlations, and hidden stories in data. 📊✨  
 
-Acredito que a verdadeira inovação acontece na interseção entre **tecnologia e inteligência estratégica**. Para mim, dados não são apenas números — eles contam histórias, antecipam tendências e guiam decisões com precisão cirúrgica. 🔍💡  
+I believe true innovation happens at the intersection of **technology and strategic intelligence**. For me, data is not just numbers — it tells stories, anticipates trends, and guides decisions with surgical precision. 🔍💡  
 
 <p align="center">
   <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" width="450">
 </p>
 
-Sempre fui fascinado por desafios – seja enfrentando chefões em jogos ou resolvendo problemas complexos no mundo real. A diferença? Nos games, os inimigos deixam loot, enquanto nos dados, eles deixam insights valiosos. 😄  
+I've always been fascinated by challenges – whether it's facing bosses in games or solving complex real-world problems. The difference? In games, enemies drop loot, while in data, they leave behind valuable insights. 😄  
 
 ---
 
-## 📌 Meu Mantra: **"Decisões Inteligentes, Baseadas em Dados"**  
+## 📌 My Mantra: **"Smart Decisions, Data-Driven"**  
 
-Acredito que compreender profundamente um problema é mais importante do que apenas encontrar soluções rápidas. Afinal, sem a **pergunta certa**, até a melhor análise pode ser irrelevante.  
+I believe that deeply understanding a problem is more important than just finding quick solutions. After all, without the **right question**, even the best analysis can be irrelevant.  
 
-Meu objetivo é transformar **dados brutos** em **conhecimento estratégico**, com foco em **boas práticas**, **organização** e uma **mentalidade baseada em evidências**.  
+My goal is to turn **raw data** into **strategic knowledge**, focusing on **best practices**, **organization**, and an **evidence-based mindset**.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Technologies & Tools  
 
-### 📂 **Manipulação e Análise de Dados**  
-Ferramentas essenciais para processamento e análise eficiente de dados.  
+### 📂 **Data Manipulation & Analysis**  
+Essential tools for efficient data processing and analysis.  
 
 <div display='inline'>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="60" />
@@ -34,29 +34,29 @@ Ferramentas essenciais para processamento e análise eficiente de dados.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="70" height="70" />
 </div>  
 
-🔹 **Outras tecnologias:**  
-- **Dask** → Processamento paralelo para grandes volumes de dados.  
-- **Polars** → Alternativa ultrarrápida ao Pandas.  
-- **Modin** → Aceleração do Pandas usando múltiplos núcleos da CPU.  
+🔹 **Other Technologies:**  
+- **Dask** → Parallel processing for large datasets.  
+- **Polars** → An ultra-fast alternative to Pandas.  
+- **Modin** → Speeds up Pandas operations by utilizing multiple CPU cores.  
 
 ---
 
-### 📊 **Visualização de Dados**  
-Transformando dados em insights visuais impactantes.  
+### 📊 **Data Visualization**  
+Transforming data into impactful visual insights.  
 
 <div display='inline'>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="100" height="100" />
 </div>  
 
-🔹 **Outras tecnologias:**  
-- **Seaborn** → Visualização estatística elegante e poderosa.  
-- **Plotly** → Dashboards interativos e gráficos dinâmicos.  
-- **Altair** → Visualização declarativa para análise exploratória.  
+🔹 **Other Technologies:**  
+- **Seaborn** → Elegant and powerful statistical visualization.  
+- **Plotly** → Interactive dashboards and dynamic charts.  
+- **Altair** → Declarative visualization for exploratory data analysis.  
 
 ---
 
-### 🧠 **Machine Learning & IA**  
-Frameworks para aprendizado de máquina e inteligência artificial.  
+### 🧠 **Machine Learning & AI**  
+Frameworks for machine learning and artificial intelligence.  
 
 <div display='inline'>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="80" height="80" />
@@ -64,10 +64,10 @@ Frameworks para aprendizado de máquina e inteligência artificial.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width="90" height="70" />
 </div>  
 
-🔹 **Outras tecnologias:**  
-- **XGBoost / LightGBM / CatBoost** → Modelos otimizados para aprendizado supervisionado.  
-- **Hugging Face Transformers** → NLP de última geração.  
-- **FastAI** → Deep learning simplificado com PyTorch.  
+🔹 **Other Technologies:**  
+- **XGBoost / LightGBM / CatBoost** → Optimized models for supervised learning.  
+- **Hugging Face Transformers** → State-of-the-art NLP.  
+- **FastAI** → Simplified deep learning with PyTorch.  
 
 ---
 
@@ -82,25 +82,25 @@ Frameworks para aprendizado de máquina e inteligência artificial.
 
 ---
 
-## 🌎 Vamos nos conectar?  
+## 🌎 Let's Connect!  
 
 <div>
-  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank">
+  <a href="https://www.youtube.com/your-youtube-channel" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
+  <a href="https://instagram.com/your-instagram-handle" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
-  <a href="mailto:contato@seu-usuário-aqui">
+  <a href="mailto:your-email">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>  
 
 ---
 
-## 🚀 Vamos transformar dados em decisões inteligentes!  
+## 🚀 Let's Turn Data into Smart Decisions!  
 
-Se você curtiu meu trabalho, fique à vontade para contribuir, trocar ideias ou simplesmente bater um papo sobre dados. 😃📈  
+If you like my work, feel free to contribute, exchange ideas, or just have a chat about data. 😃📈  
