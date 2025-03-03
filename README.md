@@ -74,9 +74,9 @@ Frameworks para aprendizado de máquina e inteligência artificial.
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <a href="https://github.com/seu-usuário-aqui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://github.com/GabrielValim">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielValim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielValim&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
