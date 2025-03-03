@@ -5,8 +5,7 @@ Bem-vindo ao meu espaço no GitHub! Sou Gabriel, mas pode me chamar de Valim. Mi
 Acredito que a verdadeira inovação está na interseção entre tecnologia e inteligência estratégica. Para mim, os dados não são apenas números em um banco de dados – eles contam histórias, antecipam tendências e guiam decisões com precisão cirúrgica. 🔍💡  
 
 <p align="center">
-  <img src="https://tenor.com/bCISO.gif" width="350">
-   
+  <img src="https://media.tenor.com/uF7aJqxcM6QAAAAj/digital-skola-bertalenta-digital.gif" width="250">
 </p>
 
 Sempre fui fascinado por desafios – seja enfrentando chefões em jogos ou resolvendo problemas complexos no mundo real. A diferença? Nos games, os inimigos deixam loot, enquanto nos dados, eles deixam insights valiosos. 😄  
